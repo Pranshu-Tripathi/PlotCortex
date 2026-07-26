@@ -1,3 +1,7 @@
+"""
+This file reads the csv path and returns it.
+"""
+
 import csv
 import os
 from typing import Dict, List
