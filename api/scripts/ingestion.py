@@ -1,3 +1,6 @@
+"""
+This file ingests the movies csv dataset into the vector database.
+"""
 import os
 import uuid
 
